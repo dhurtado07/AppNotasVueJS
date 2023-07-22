@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "note": "Nota 2 editado",
+      "date": "2023-07-30",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "note": "Nota 4",
+      "date": "2023-07-24",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "note": "denys",
+      "date": "2023-07-21",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "note": "juan ",
+      "date": "2023-07-21",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuario Juan"
+    },
+    {
+      "id": 2,
+      "name": "Usuario Pedro"
+    }
+  ]
+}
